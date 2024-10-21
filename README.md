@@ -12,3 +12,7 @@
 
 ## 🌐 Let's Connect
 [LinkedIn](https://www.linkedin.com/in/prakharmavi) | [Portfolio](https://your-portfolio.com)
+
+##  Progress
+
+[![roadmap.sh](https://roadmap.sh/card/tall/6715b94c791f57dd6030551a?variant=dark)](https://roadmap.sh)
