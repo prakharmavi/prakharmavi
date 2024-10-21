@@ -1,16 +1,14 @@
-## Hi there 👋
+# Hi there! 👋 I'm Prakhar
 
-<!--
-**prakharmavi/prakharmavi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Computer Programming Student at Seneca College  
+💻 Passionate about Web Development & App Development  
+🌱 Currently learning **Express** and improving my C++ skills  
+📫 Reach me at: [prakhar.mavi@gmail.com](mailto:prakhar.mavi@gmail.com)
 
-Here are some ideas to get you started:
+## 🔧 Tech Stack
+- **Languages:** C++, JavaScript, Python  
+- **Frameworks/Libraries:** Express, React, Node.js, Vite
+- **Tools:** Git, Docker, VS Code, Zsh  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌐 Let's Connect
+[LinkedIn](https://www.linkedin.com/in/prakharmavi) | [Portfolio](https://your-portfolio.com)
