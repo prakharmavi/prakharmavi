@@ -5,8 +5,8 @@
 📫 Reach me at: [prakhar.mavi@gmail.com](mailto:prakhar.mavi@gmail.com)
 
 ## 🔧 Tech Stack
-- **Languages:** TypeScript, JavaScript, Python, Swift, C/C++
-- **Frameworks/Libraries:** Express, React, Node.js, Vite, Firebase, Go-lang
+- **Languages:** TypeScript, JavaScript, Python, Swift, C/C++, Go-lang
+- **Frameworks/Libraries:** Express, React, Node.js, Vite, Firebase
 - **Tools:** Git, Docker, VS Code, Zsh  
 
 ## 🌐 REACH OUT
