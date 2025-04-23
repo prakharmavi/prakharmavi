@@ -6,8 +6,8 @@
 
 ## 🔧 Tech Stack
 - **Languages:** TypeScript, JavaScript, Python, Swift, C/C++, Go-lang
-- **Frameworks/Libraries:** Express, React, Node.js, Vite, Firebase
-- **Tools:** Git, Docker, VS Code, Zsh  
+- **Frameworks/Libraries:** Express, React, Node.js, Vite, Firebase, Next, Svelte
+- **Tools:** Git, Docker, VS Code, Zsh , Kubernetes
 
 ## 🌐 REACH OUT
 [LinkedIn](https://www.linkedin.com/in/prakharmavi) | [Portfolio](https://pmavi.com)
